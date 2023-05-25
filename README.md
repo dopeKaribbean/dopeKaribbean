@@ -1,31 +1,32 @@
 ![](assets/images/header.svg)
 
-<h1 align="center">Hi 👋🏽, I'm Karibbean Creative</h1>
+<h1 align="center">Hi, I'm Karibbean Creative 🏝️</h1>
 
 
 <!--Typing SVG-->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=EBC83D&center=true&width=700&height=100&lines=a+passionate+Webdesigner+and+a+MERN+stack+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=EBC83D&center=true&width=1280&height=100&lines=a+passionate+Webdesigner+%F0%9F%96%8C%EF%B8%8F+and+a+MERN+stack+learner+%F0%9F%93%92)](https://git.io/typing-svg)
 
 
-<p>I started my coding journey a few months ago and I really appreciate JavaScript.<br/>I also like :</p>
+### 😎 About
+<p>I started my coding journey a few months ago and I really appreciate JavaScript. I also like :</p>
 <ul>
-    <li> Thai-boxing 🥊</li>
-    <li>my little friend Ares 🐕</li>
-    <li>beatmaking 🎹</li>
-    <li>and discover new culinary specialties 😋.</li>
+    <li>Boxing 🥊 and Basket-ball 🏀</li>
+    <li>Ares, my little friend 🐕</li>
+    <li>Beatmaking 🎹</li>
+    <li>and discover new culinary specialties 😋</li>
 
 
 <div>
   <img align="right" src="assets/images/creator.png" alt="illustration" width="50%" height="auto"/>
-  <br/><br/>
+  <br/>
   <p align="center" width="50%">
     <ul>
       <li>🎯 I’m focusing on <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648205?start=3#overview" target="_blank">my courses</a></li>
-      <li>🌱 I’m currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript EcoSystème</b></a></li>
+      <li>🌱 I’m currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript EcoSystem</b></a></li>
       <li>👯 I’m looking for a company to <b>help me grow during an <a href="https://oclock.io/formations/alternance" target="_blank">apprenticeship as a Fullstack Javascript Developer</a></b></li> 
       <li>🔭 I’m currently working on <a href="http://karibbeancreative.xyz" target="_blank">my portfolio</a></li>
-      <li>🎮 I play <a href="https://nba.2k.com/2k23/" target="_blank">video games</a> and go to the gym very often.</li>
+      <li>🎮 I play <a href="https://nba.2k.com/2k23/" target="_blank">video games</a> and go to  gym</li>
     </ul>
   </p>
 </div>
@@ -33,13 +34,15 @@
 
 <!-- Grid-snake github -->
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![](assets/images/github-user-contribution.svg)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+<br/>
 
 <!--   GitHub stats graph -->
 ## 📈 GitHub Activity Graph :
-[![Karibbean Creative github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karibbeanCreative&theme=github-compact)](https://github.com/karibbeanCreative/github-readme-activity-graph)
+[![Karibbean Creative github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karibbeanCreative&bg_color=262626&color=EBC83D&line=EBC83D)](https://github.com/karibbeanCreative/github-readme-activity-graph)
 
+<br/>
 
 ## 🧰 Languages and Tools :
 
