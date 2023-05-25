@@ -5,7 +5,7 @@
 
 <!--Typing SVG-->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=EBC83D&center=true&width=1280&height=100&lines=a+passionate+Webdesigner+%F0%9F%96%8C%EF%B8%8F+and+a+MERN+stack+learner+%F0%9F%93%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=9999FF&center=true&width=1280&height=100&lines=a+passionate+Webdesigner+%F0%9F%96%8C%EF%B8%8F+and+a+MERN+stack+learner+%F0%9F%93%92)](https://git.io/typing-svg)
 
 
 ### 😎 About
@@ -40,7 +40,7 @@
 
 <!--   GitHub stats graph -->
 ## 📈 GitHub Activity Graph :
-[![Karibbean Creative github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karibbeanCreative&bg_color=262626&color=EBC83D&line=EBC83D)](https://github.com/karibbeanCreative/github-readme-activity-graph)
+[![Karibbean Creative github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karibbeanCreative&bg_color=FFFFFF&color=CCD9FF&line=9999FF)](https://github.com/karibbeanCreative/github-readme-activity-graph)
 
 <br/>
 
