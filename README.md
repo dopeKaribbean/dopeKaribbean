@@ -8,17 +8,15 @@
 ## 😎 &bull; About</h3>
 
 <section style="display:flex">
-   <div style="font-size:18" width="30%">
+   <div style="font-size:16" width="40%">
       <p>I started my journey with graphic design. Then I learned webdesign and the fundamentals of UI design. I am still perfecting my UX approach.</p>
       <p>I’m currently learning JavaScript. You can follow my progress right here on the Creative Journey repository.</p>
    </div>
 
-   <div width="70%">
+   <div width="60%">
       <img src="assets/images/creator.png" alt="illustration" width="100%"/>
    </div>
 </section>
-
-
 
 
 <ul>
@@ -41,25 +39,31 @@
 
 ## 🧰 &bull; Languages and Tools</h3>
 
-### Design
-
----
-
-   <div align="center">
-      <img src="icons/illustrator.svg" width="40" style="padding-right:10"/>
-      <img src="icons/indesign.svg" width="40" style="padding-right:10"/>
-      <img src="icons/photoshop.svg" width="40" style="padding-right:10"/>
-      <img src="icons/lightroom.svg" width="40" style="padding-right:10" />
+<section style="display:flex">
+   <div width="50%">
+      <h3>Design</h3>
+      <div align="center">
+         <img src="icons/illustrator.svg" width="40" style="padding-right:10"/>
+         <img src="icons/indesign.svg" width="40" style="padding-right:10"/>
+         <img src="icons/photoshop.svg" width="40" style="padding-right:10"/>
+         <img src="icons/lightroom.svg" width="40" style="padding-right:10" />
+      </div>
    </div>
+   <div width="50%">
+      <h3>WebDesign</h3>
+      <div align="center">
+         <img src="assets/icons/figma.png" width="25" style="padding-right:10"/>
+         <img src="icons/xd.svg" width="40" style="padding-right:10"/>
+      </div>
+   </div>
+</section>
 
-### WebDesign
 
----
 
-<div align="center">
-   <img src="assets/icons/figma.png" width="25" style="padding-right:10"/>
-   <img src="icons/xd.svg" width="40" style="padding-right:10"/>
-</div>
+
+   
+
+
 
 ### Frontend
 
