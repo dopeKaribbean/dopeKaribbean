@@ -1,16 +1,25 @@
 ![](assets/images/header.svg)
 
 <samp>
-<h3 align="center">Hi there ✌🏽, welcome to my DopeVerse 🏝️!</h4>
+<h3 align="center" style="font-size:24">Hi there ✌🏽, welcome to my DopeVerse 🏝️!</h4>
 
-<p align="center">I'm a UI / UX Designer and a Fullstack coder in loading ◾◾◽◽◽◽</p>
+<p align="center" style="font-size:20">I'm a UI / UX Designer and a Fullstack coder in loading ◾◾◽◽◽◽</p>
 
 ## 😎 &bull; About</h3>
 
-<p>I started my journey with graphic design. Then I learned webdesign and the fundamentals of UI design. I am still perfecting my UX approach.</p>
-<p>I’m currently learning JavaScript. You can follow my progress right here on the Creative Journey repository.</p>
+<section>
+   <div style="font-size:18" align="left" width="50%">
+      <p>I started my journey with graphic design. Then I learned webdesign and the fundamentals of UI design. I am still perfecting my UX approach.</p>
+      <p>I’m currently learning JavaScript. You can follow my progress right here on the Creative Journey repository.</p>
+   </div>
 
-<img align="center" src="assets/images/creator.png" alt="illustration" width="70%"/>
+   <div align="right" width="50%">
+      <img src="assets/images/creator.png" alt="illustration"/>
+   </div>
+</section>
+
+
+
 
 <ul>
    <li>🌱 I’m learning
